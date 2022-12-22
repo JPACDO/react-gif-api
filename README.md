@@ -1,3 +1,3 @@
 # GifExpertApp
 
-Repositorio del proyecto GifExpertApp de React
+Buscador de imágenes gifs
